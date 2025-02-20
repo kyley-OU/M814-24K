@@ -1,0 +1,9 @@
+Functional Requirement: Record Treatment Details
+Description: The system must allow the receptionist to enter the details from the completed treatment record form into the Treatment Record System, including patient ID, treatment type, therapist name, and prescribed follow-up actions.
+Rationale: Accurate recording of treatment details is necessary for maintaining patient history, ensuring treatment continuity, and facilitating billing and insurance claims. Manual record-keeping increases the risk of errors and lost records.
+Originator: Carol (Office Manager)
+
+Functional Requirement: Process Patient Payment
+Description: If payment is required, the system must calculate the amount based on the treatment type, generate an invoice, and allow the receptionist to process the payment. The system should support multiple payment methods (cash, card, insurance billing) and issue a payment receipt.
+Rationale: The clinic needs an efficient payment processing system to ensure accurate and timely revenue collection. Automating this process reduces errors, speeds up checkout, and improves the patient experience.
+Originator: Receptionists
